@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="boletin1" type="siete.py" name="subscriptor_siete" output="screen">
+    </node>
+</launch>
